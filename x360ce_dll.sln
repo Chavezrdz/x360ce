@@ -71,6 +71,6 @@ Global
 		{0CAEE158-51E4-4C81-8CAC-F39F744DAF2D}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
+		HideSolutionNode = True
 	EndGlobalSection
 EndGlobal
